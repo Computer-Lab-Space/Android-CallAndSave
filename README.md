@@ -18,4 +18,4 @@ Create an activity like a phone dialer with CALL and SAVE buttons. On pressing t
 button, it must call the phone number and on pressing the SAVE button it must save the number
 to the phone contacts.
 
-[Sample Visiting Card Wiremock]()
+[Call and Save Applicaiton Wiremock](https://github.com/Computer-Lab-Space/Android-CallAndSave/blob/develop/app/src/main/res/drawable/Call_and_Save_Wiremock.png)
